@@ -9,7 +9,7 @@ CHANNEL_FILE = 'channels'
 
 VERSION = '3.3.0'
 
-APK_PREFIX = 'jinuanbao'
+APK_PREFIX = 'weixin'
 
 APK_DEPR = '_'
 
